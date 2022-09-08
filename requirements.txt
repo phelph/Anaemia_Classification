@@ -39,3 +39,4 @@ matplotlib
 google
 google-cloud
 numpy
+requests
